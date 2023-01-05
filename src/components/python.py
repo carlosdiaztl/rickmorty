@@ -1,0 +1,1 @@
+const1 =print('hello word')

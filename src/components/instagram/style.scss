@@ -1,0 +1,20 @@
+.background-{
+   
+    &alive{
+        width: 15px;
+        height: 15px;
+       
+        background-color: chartreuse;
+    }
+    &dead{
+        width: 15px;
+        height: 15px;
+        background-color: red;
+    }
+    &unknown{
+        width: 15px;
+        height: 15px;
+        background-color: grey;
+
+    }
+}
